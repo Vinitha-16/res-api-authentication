@@ -5,8 +5,7 @@ class User{
     private $table_name = "users";
 
     public $id;
-    public $firstname;
-    public $lastname;
+    public $fname;
     public $email;
     public $password;
 
